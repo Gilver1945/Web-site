@@ -1,0 +1,47 @@
+body {
+background-color: #323232;
+color: #0f141e;
+
+    font-size: 26px;
+        font-weight:  normal;
+}
+.info h1{
+        text-align: center;
+    padding-top:10px;
+    margin: 0;
+}
+.info {
+background-color: #a7a2a2;
+    border-radius: 10px
+}
+
+
+.info img{
+      position: absolute;
+   top: 34%;
+   left: 75%;
+   transform: translate(-50%, -50%);
+}
+.aasa img{
+        position: absolute;
+    top: 34%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+}
+
+.sgcx p{
+ color: #0f141e;
+     font-size:22px;
+background-color: #a7a2a2;      
+    border-radius: 10px;
+        position: relative;
+    top: 150px
+}
+.jcc {
+background-color: #a7a2a2;
+	   border-radius: 10px;
+    position: relative;
+    top: 150px;
+   font-size:45px;
+color: white;
+}
